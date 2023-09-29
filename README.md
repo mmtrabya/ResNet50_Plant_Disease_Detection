@@ -11,3 +11,6 @@ I used the dataset from Kaggle Called Plant village Dataset here is the link bel
 
 https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
 
+Sample of the Training Data
+
+<img align="left" alt="coding" src="cover.png">
