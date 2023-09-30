@@ -1,6 +1,6 @@
 <h1 align="center">
   
-  ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+  ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=300&section=header)
   
   ResNet50 Plant Disease Detection
 </h1>
@@ -37,3 +37,6 @@ The Model Achieved An Accuracy of 99.9% in the Training Phase and 99.7% in Valid
 <h2> Precision & F1 Score </h2>
 
 <img align="center" alt="coding3" src="Screenshot (80).png">
+
+
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=300&section=footer)
